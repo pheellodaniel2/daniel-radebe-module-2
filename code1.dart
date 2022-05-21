@@ -1,8 +1,8 @@
 void mani(){
 
- string myName="Dainel";
- string favApp="Termux";
- string myCiy="Johannesburg";
+ String myName="Dainel";
+ String favApp="Termux";
+ String myCiy="Johannesburg";
  print("My name is $myName");
  print("$favApp is my favorite app");
  print("My city is $myCiy");
