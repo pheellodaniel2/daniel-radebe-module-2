@@ -3,8 +3,8 @@ void mani(){
  string myName="Dainel";
  string favApp="Termux";
  string myCiy="Johannesburg";
- print("$myName");
- print("$favApp");
- print("$myCiy");
+ print("My name is $myName");
+ print("$favApp is my favorite app");
+ print("My city is $myCiy");
 
 }
